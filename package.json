@@ -11,5 +11,9 @@
     "url": "https://github.com/Kikol18/background-generator.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+     "url": "https://github.com/Kikol18/background-generator/issues"
+  },
+  "homepage": "https://github.com/Kikol18/background-generator#readme"
 }
